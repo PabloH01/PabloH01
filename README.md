@@ -1,9 +1,10 @@
 ### Oláa! Eu sou o Pablo Henrique 👋
 - 🔭 Estudante de Desenvolvimento de Sistemas.
 - 🍳 Busco oportunidade de emprego / estágio!
+- 💻 Foco de programação: Front-end
+- 📚 Linguangens principais: HTML, CSS, PHP, JAVA e SQL.
 - 🌱 Estou estudando C# e Python
 - 💬 Contate-me no email: pablohenriquenadai@gmail.com
-- 😄 Pronomes: ele/dele
 
 ##
 
