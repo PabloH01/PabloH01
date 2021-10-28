@@ -3,7 +3,7 @@
 - 🍳 Busco oportunidade de emprego / estágio!
 - 🌱 Estou estudando C# e Python
 - 💬 Contate-me no email: pablohenriquenadai@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 ##
 
